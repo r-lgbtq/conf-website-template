@@ -1,0 +1,12 @@
+{
+  "hash": "262df4e0835ac33a402375e4007cd331",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Schedule\"\nformat: html\n---\n\nThe rainbowR conference will run over [number] days, on [dates to be confirmed]. The full schedule is shown below, with links to talk descriptions once the programme is confirmed.\n\nBy default, times are shown in UTC. Use the sections below to view the schedule in other time zones.\n\n::: {.cell}\n```{css}\nsummary {\n  font-weight: bold;\n  margin-bottom: 0.5em;\n}\n```\n:::\n\n<details open>\n<summary>UTC</summary>\n\n### Day 1: [date to be confirmed]\n\n| Time | Event | Speaker |\n|---|---|---|\n| To be confirmed | [Event title](talks.qmd#talk-slug) | [Speaker name](speakers.qmd#speaker-name) |\n\n### Day 2: [date to be confirmed]\n\n| Time | Event | Speaker |\n|---|---|---|\n| To be confirmed | Event title | Speaker name |\n</details>\n\n<details>\n<summary>America/New_York</summary>\n\nAdd the converted schedule here when times are confirmed.\n</details>\n\n<details>\n<summary>Europe/London</summary>\n\nAdd the converted schedule here when times are confirmed.\n</details>\n\n<!-- Add further time-zone sections using the same details/summary pattern. -->\n\n",
+    "supporting": [
+      "schedule_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

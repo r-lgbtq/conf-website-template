@@ -1,0 +1,20 @@
+---
+title: "Committee"
+toc: true
+---
+
+*Arranged alphabetically by first name*
+
+### Committee member name (role)
+
+![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
+
+Add a short biography or a description of the member’s conference role.
+
+<!-- [{{< iconify mynaui:globe >}} Website](https://member.example){.btn .icon-link} -->
+
+### Committee member name (role)
+
+![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
+
+Copy this pattern for each member. Add names, pronouns where people wish to share them, and links only with permission.

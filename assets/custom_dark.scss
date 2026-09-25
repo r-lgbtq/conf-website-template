@@ -1,0 +1,269 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&display=swap');
+
+$font-family-sans-serif: Figtree, Helvetica, sans-serif;
+$headings-font-family: Figtree, Helvetica, sans-serif;
+
+// colors
+$red: #FF4239;
+$orange: #FF6B00;
+$yellow: #FFC843;
+$green: #09CE7C;
+$blue: #02B3E3;
+$pink: #DA3AB3;
+$purple: #DA3AB3;
+$royal-blue: #01299F;
+//$dark-blue: #001552;
+$dark-blue: #001247;
+//$very-dark-blue: #000B29;
+$very-dark-blue: #000D33;
+//$very-dark-blue: #000F3D;
+//$light: #F2F5FF;
+$light: #FAFBFF;
+
+$primary: $orange;
+$body-bg: $very-dark-blue;
+$navbar-bg: $very-dark-blue;
+$navbar-fg: $light;
+$body-color: $light;
+$code-block-bg: $dark-blue;
+$code-bg: $very-dark-blue;
+$code-color: $green;
+
+$primary: $yellow;
+
+// callouts
+$callout-color-note: $blue;
+$callout-color-tip: $green;
+$callout-color-caution: $purple;
+$callout-color-warning: $orange;
+$callout-color-important: $red;
+
+.top-quote {
+  font-family: $headings-font-family;
+  font-size: 275%;
+}
+
+// icon-links
+.icon-link, div.quarto-about-jolla .about-link {
+    background-color: transparent;
+    color: $yellow;
+    //border: 2px solid !important;
+    border: 2px solid;
+    border-color: $yellow;
+    padding: 5px .4rem 5px .4rem !important;
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px; 
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon-link:hover, div.quarto-about-jolla .about-link:hover{
+    background-color: $yellow;
+    color: $body-bg;
+    border-color: $yellow;
+    text-decoration: none;
+}
+
+.btn {
+  border-radius: 5px;
+}
+
+#navbarCollapse {
+	font-family: $headings-font-family;
+//	font-weight: 700;
+	color: $light;
+}
+
+.navbar-title:hover {
+  color: $primary;
+}
+
+/*
+.navbar-expand-lg .navbar-nav .nav-link:hover,
+.navbar-expand-lg .navbar-nav .nav-link.active {
+	font-family: $gilbert-font-family;
+}
+*/
+
+// hover on navbar
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: $primary;
+}
+.navbar-expand-lg .navbar-nav .nav-link.active {
+  color: $primary;
+}
+
+// then override colors so they match cards
+#navbarCollapse > ul > li:nth-child(1) > a:hover,
+#navbarCollapse > ul > li:nth-child(7) > a:hover,
+#navbarCollapse > ul > li:nth-child(1) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(7) > a.nav-link.active {
+  color: $red;
+}
+
+#navbarCollapse > ul > li:nth-child(2) > a:hover,
+#navbarCollapse > ul > li:nth-child(8) > a:hover,
+#navbarCollapse > ul > li:nth-child(2) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(8) > a.nav-link.active {
+  color: $orange;
+}
+
+#navbarCollapse > ul > li:nth-child(3) > a:hover,
+#navbarCollapse > ul > li:nth-child(9) > a:hover,
+#navbarCollapse > ul > li:nth-child(3) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(9) > a.nav-link.active  {
+  color: $yellow;
+}
+
+#navbarCollapse > ul > li:nth-child(4) > a:hover,
+#navbarCollapse > ul > li:nth-child(10) > a:hover,
+#navbarCollapse > ul > li:nth-child(4) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(10) > a.nav-link.active {
+  color: $green;
+}
+
+#navbarCollapse > ul > li:nth-child(5) > a:hover,
+#navbarCollapse > ul > li:nth-child(11) > a:hover,
+#navbarCollapse > ul > li:nth-child(5) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(11) > a.nav-link.active {
+  color: $blue;
+}
+
+#navbarCollapse > ul > li:nth-child(6) > a:hover,
+#navbarCollapse > ul > li:nth-child(12) > a:hover,
+#navbarCollapse > ul > li:nth-child(6) > a.nav-link.active,
+#navbarCollapse > ul > li:nth-child(12) > a.nav-link.active {
+  color: $pink;
+}
+
+// animated underline on hover, when navbar shows as row
+@media screen and (min-width: 992px) {
+  a.nav-link {
+    position: relative;
+  }
+  
+  .navbar .navbar-nav .nav-item {
+    position: relative;
+  }
+  
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: $red;
+    width: 0%;
+    content: "";
+    height: 4px;
+    transition: all 0.3s;
+  }
+  
+  .navbar .navbar-nav .nav-item:nth-child(2)::after,
+  .navbar .navbar-nav .nav-item:nth-child(8)::after {
+    background-color: $orange;
+  }
+  
+  .navbar .navbar-nav .nav-item:nth-child(3)::after,
+  .navbar .navbar-nav .nav-item:nth-child(9)::after {
+    background-color: $yellow;
+  }
+  
+    .navbar .navbar-nav .nav-item:nth-child(4)::after,
+    .navbar .navbar-nav .nav-item:nth-child(10)::after {
+    background-color: $green;
+  }
+  
+    .navbar .navbar-nav .nav-item:nth-child(5)::after,
+    .navbar .navbar-nav .nav-item:nth-child(11)::after {
+    background-color: $blue;
+  }
+  
+    .navbar .navbar-nav .nav-item:nth-child(6)::after,
+    .navbar .navbar-nav .nav-item:nth-child(12)::after {
+    background-color: $pink;
+  }
+
+  .navbar .navbar-nav .nav-item:hover::after {
+    width: 90%;
+  }
+}
+
+/* bg-color on dropdown menu and tool items
+Note that there is currently only one dropdown, 
+from a navbar item that goes yellow when hovered on.
+If the hover cover of the dropdown header changes,
+or another dropdown is introduced, this CSS will need updating.
+*/
+.navbar-nav .dropdown-menu .dropdown-item:hover,
+.dropdown-item.quarto-navbar-tools-item:hover {
+    background-color: $yellow;
+    color: $very-dark-blue;
+}
+
+/*-- scss:rules --*/
+
+// GT table styling for dark mode
+.gt_table {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}
+
+.gt_col_heading {
+  background-color: $green !important;
+  color: $very-dark-blue !important;
+  border-bottom: 2px solid $green !important;
+  font-weight: 700 !important;
+}
+
+.gt_row {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+  border-bottom: 3px solid $dark-blue !important;
+}
+
+.gt_table_body {
+  border-top-color: $dark-blue !important;
+}
+
+.gt_sourcenote {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}
+
+
+.gt_footnote {
+  background-color: $very-dark-blue !important;
+  color: $light !important;
+}
+
+// icon-links
+.icon-link, div.quarto-about-jolla .about-link {
+    background-color: transparent;
+    color: $yellow;
+    border: 2px solid;
+    border-color: $yellow;
+    padding: 5px .4rem 5px .4rem !important;
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px; 
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon-link:hover, div.quarto-about-jolla .about-link:hover{
+    background-color: $yellow;
+    color: $body-bg;
+    border-color: $yellow;
+    text-decoration: none;
+}
+
+.person-img {
+  border-radius: 20%;
+}

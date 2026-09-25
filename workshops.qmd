@@ -1,0 +1,39 @@
+---
+title: "Workshops"
+toc: true
+---
+
+Workshops will take place on [date to be confirmed], across [number] parallel sessions. Add the confirmed times here and link to the [schedule](schedule.qmd) page for time-zone information.
+
+Session A: [time to be confirmed]
+
+- [**Workshop title**](#workshop-slug)
+- [**Another workshop title**](#another-workshop-slug)
+
+Session B: [time to be confirmed]
+
+- [**Workshop title**](#third-workshop-slug)
+
+## Workshop title {#workshop-slug}
+
+Describe the workshop, its intended audience, and what participants will learn. Add any prerequisites, computer set-up instructions, or registration information here.
+
+<!-- [{{< iconify mdi:globe >}} Workshop website](https://workshop.example){.btn .icon-link} -->
+
+**Instructor:**
+
+:::: {.columns}
+::: {.column}
+[Instructor name](speakers.qmd#speaker-name)
+
+![](images/tba_rainbow-hex.png){.person-img width="60%" fig-alt="Placeholder for instructor photograph"}
+:::
+::::
+
+## Another workshop title {#another-workshop-slug}
+
+Copy the workshop pattern above for each additional workshop. Use columns when there is more than one instructor.
+
+## Workshop title {#third-workshop-slug}
+
+Add the final workshop details here.

@@ -1,0 +1,60 @@
+---
+title: "Talks"
+toc: true
+---
+
+The programme is being assembled. The examples below preserve the display pattern used for previous rainbowR conferences; replace them with confirmed content when ready.
+
+## Keynotes
+
+### Talk title {#talk-slug}
+
+[**Speaker name**](speakers.qmd#speaker-name)
+
+![](images/placeholder_opener_rainbow_rect.png){fig-alt="RainbowR placeholder graphic"}
+
+**Abstract:**
+
+Add the keynote abstract here.
+
+## Regular talks
+
+Regular talks will run in sessions. Use the sections below to share abstracts and, after the conference, recordings, slides, and other resources.
+
+### Session I {#session-1}
+
+::: {.callout-note collapse="false" icon=false appearance="simple"}
+### *Talk title*<br>[**Speaker name**](speakers.qmd#another-speaker) {#another-talk-slug}
+
+**Abstract:**
+
+Add the talk abstract here. Once the event has taken place, add any recording, slides, repository, preprint, or other resources as appropriate.
+
+<!-- Add resource buttons only when the real links are available.
+[{{< iconify mdi:youtube >}} Talk recording](https://youtu.be/VIDEO_ID){.btn .icon-link}
+[{{< iconify mdi:presentation >}} Slides](slides/speaker-name.pdf){.btn .icon-link}
+[{{< iconify mdi:github >}} Repository](https://github.com/ORGANISATION/REPOSITORY){.btn .icon-link}
+-->
+:::
+
+### Session II {#session-2}
+
+Add confirmed talks here using the same callout pattern. Rotate the callout type (`note`, `tip`, `caution`, `warning`, `important`) to retain the colourful programme styling.
+
+## Lightning talks
+
+Use this section for brief presentations and their resources.
+
+::: {.callout-tip collapse="false" icon=false appearance="simple"}
+### *Lightning talk title*<br>[**Speaker name**](speakers.qmd#speaker-name) {#lightning-talk-slug}
+
+Add a short abstract if available, then add event resources when they are ready.
+:::
+
+<!--
+TALK ENTRY CHECKLIST
+- Give every talk a lowercase, hyphenated anchor: {#talk-slug}
+- Link every speaker name to their matching anchor on speakers.qmd
+- Remove resource buttons until real links exist
+- Keep external resources in the same button style for a consistent programme
+-->

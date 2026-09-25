@@ -1,0 +1,47 @@
+---
+title: "Socials"
+toc: true
+---
+
+Connecting LGBTQ+ R users is a key aim of the conference. Add confirmed social events below; the recurring Buddies and Discord information remains in place.
+
+See the [schedule](schedule.qmd) for time-zone information.
+
+<!--
+ADD A SOCIAL EVENT ABOVE THE BUDDIES SECTION
+
+Copy this block for each additional conference social. Replace every bracketed item,
+then remove the comment markers so it appears on the published page.
+
+## [Social event name]
+
+**Date and time:** [Day, date, time, and time zone]  
+**Where:** [Online platform or venue]
+
+[A short, welcoming description of the event. Include who it is for, what to expect,
+accessibility information, and any joining or registration details.]
+
+Example:
+
+## Welcome social
+
+**Date and time:** Wednesday, 6:00 pm–7:00 pm UTC  
+**Where:** Conference Discord
+
+Drop in to meet other attendees before the conference begins. This informal, moderated
+chat is open to everyone registered for the conference.
+-->
+
+## Buddies
+
+The buddies scheme is a flagship rainbowR programme which randomly pairs members of the community, providing an opportunity to foster connections and encouraging conversations between people who may not meet otherwise.
+
+We’re running a special conference edition! Folks who register for the conference will have the opportunity, during the registration process, to request a conference buddy. During check-out, you’ll be asked a couple of questions about yourself and your interests. A couple of days before the conference, we’ll randomly assign you a buddy and send an email to each pair, making the introduction, populated with the information you provided in your answers to help get the conversation started.
+
+We encourage you to connect with your buddy in advance of the conference. And, during the conference itself, you’ll then know (at least) one person attending, who you can be in touch with in the conference Discord and Zoom chats.
+
+See [rainbowr.org/buddies](https://rainbowr.org/buddies) for more details on how the scheme works (and how it’s implemented in R!).
+
+## Discord
+
+We’ll have a Discord server for the conference, for further chat and socialising, and getting in touch with the organisers. Everyone registered for the conference will be invited to join, probably a couple of days before the conference starts.

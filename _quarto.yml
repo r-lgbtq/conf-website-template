@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: true
+
+website:
+  title: "rainbowR conference"
+  image: images/rainbowR-square.png
+  image-alt: "rainbowR conference logo"
+  favicon: images/rainbow-hex-square.png
+  open-graph: true
+  navbar:
+    logo: images/rainbowR-hex.png
+    right:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: talks.qmd
+        text: Talks
+      - href: speakers.qmd
+        text: Speakers
+      - href: workshops.qmd
+        text: Workshops
+      - href: socials.qmd
+        text: Socials
+      - href: committee.qmd
+        text: Committee
+      - href: CoC.qmd
+        text: Code of Conduct
+  page-footer:
+    left: "rainbowR conference"
+    right:
+      - icon: github
+        href: https://github.com/r-lgbtq
+      - icon: envelope
+        href: mailto:hello@rainbowr.org
+
+format:
+  html:
+    theme:
+      light: assets/custom_light.scss
+      dark: assets/custom_dark.scss
+    highlight-style:
+      light: assets/rainbowr-light.theme
+      dark: assets/rainbowr-dark.theme
+    smooth-scroll: true
+
+filters:
+  - iconify

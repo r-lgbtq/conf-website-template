@@ -1,0 +1,40 @@
+---
+title: "Code of Conduct"
+toc: true
+---
+
+## Our Pledge
+
+rainbowR is committed to providing a welcoming, inclusive, and harassment-free experience for everyone. We welcome people of all backgrounds and identities.
+
+## Expected Behaviour
+
+Participants are expected to be respectful, considerate, and collaborative. Help create a space where people can participate fully, learn, and make connections.
+
+## Unacceptable Behaviour
+
+Harassment, discrimination, intimidation, or other conduct that could reasonably be considered inappropriate in a professional setting is not acceptable. This includes behaviour directed at people because of gender identity or expression, sexual orientation, disability, race, ethnicity, religion, age, or other protected characteristics.
+
+## Enforcement Responsibilities
+
+The Code of Conduct team is responsible for clarifying and enforcing these standards and for taking appropriate, fair action in response to behaviour that is inappropriate, threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies throughout conference spaces and to people representing the conference in public spaces.
+
+## Reporting
+
+The event-specific reporting contact and any independent escalation route must be added here before registration opens. Until then, refer to the [rainbowR Code of Conduct](https://rainbowr.org/code-of-conduct).
+
+## Timeline, process, and appeal
+
+Document the process for reviewing reports, communicating outcomes, and appealing decisions here before the event.
+
+## Enforcement Guidelines
+
+Add the event’s enforcement guidelines here. The prior conference page used a graduated approach covering correction, warning, temporary ban, and permanent ban.
+
+## Attribution
+
+The conference Code of Conduct should acknowledge the sources or community standards it is adapted from.

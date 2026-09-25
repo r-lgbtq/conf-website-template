@@ -1,0 +1,43 @@
+---
+title: "Speakers"
+toc: true
+---
+
+*Arranged alphabetically by first name, within each section*
+
+Speaker details will appear here once the programme is confirmed. The examples below are deliberately visible so that this page remains a useful copy-and-edit template.
+
+## Keynote speakers
+
+### Speaker name {#speaker-name}
+
+[Talk title](talks.qmd#talk-slug)
+
+![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for speaker photograph"}
+
+Speaker Name (pronouns) is a role at Organisation. Add a short biography that explains their work, interests, and connection to the conference.
+
+<!-- Add only the links a speaker has agreed to share.
+[{{< iconify mynaui:globe >}} Website](https://speaker.example){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/speaker){.btn .icon-link}
+-->
+
+## Talk speakers
+
+### Speaker name {#another-speaker}
+
+[Another talk title](talks.qmd#another-talk-slug)
+
+![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for speaker photograph"}
+
+Add a short biography here. Copy this entire section for each new speaker, then update the heading, anchor, talk link, image, biography, and any relevant social links.
+
+<!-- [{{< iconify simple-icons:github >}} GitHub](https://github.com/speaker){.btn .icon-link} -->
+
+<!--
+SPEAKER ENTRY CHECKLIST
+- Use a lowercase, hyphenated anchor: ### Name {#name}
+- Link to the matching talk anchor on talks.qmd
+- Put photos in images/people/ and provide useful alt text
+- Include only links the speaker has agreed to share
+-->

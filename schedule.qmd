@@ -1,0 +1,38 @@
+---
+title: "Schedule"
+format: html
+---
+
+The rainbowR conference will run over [number] days, on [dates to be confirmed]. The full schedule is shown below, with links to talk descriptions once the programme is confirmed.
+
+By default, times are shown in UTC. Use the sections below to view the schedule in other time zones.
+
+<details open>
+<summary>UTC</summary>
+
+### Day 1: [date to be confirmed]
+
+| Time | Event | Speaker |
+|---|---|---|
+| To be confirmed | [Event title](talks.qmd#talk-slug) | [Speaker name](speakers.qmd#speaker-name) |
+
+### Day 2: [date to be confirmed]
+
+| Time | Event | Speaker |
+|---|---|---|
+| To be confirmed | Event title | Speaker name |
+</details>
+
+<details>
+<summary>America/New_York</summary>
+
+Add the converted schedule here when times are confirmed.
+</details>
+
+<details>
+<summary>Europe/London</summary>
+
+Add the converted schedule here when times are confirmed.
+</details>
+
+<!-- Add further time-zone sections using the same details/summary pattern. -->
