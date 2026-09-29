@@ -18,7 +18,13 @@ Session B: [time to be confirmed]
 
 Describe the workshop, its intended audience, and what participants will learn. Add any prerequisites, computer set-up instructions, or registration information here.
 
-<!-- [{{< iconify mdi:globe >}} Workshop website](https://workshop.example){.btn .icon-link} -->
+<!--
+[{{< iconify mynaui:globe >}} Website](URL){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/USERNAME){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](URL){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/HANDLE){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/HANDLE){.btn .icon-link}
+-->
 
 **Instructor:**
 
@@ -26,7 +32,7 @@ Describe the workshop, its intended audience, and what participants will learn. 
 ::: {.column}
 [Instructor name](speakers.qmd#speaker-name)
 
-![](images/tba_rainbow-hex.png){.person-img width="60%" fig-alt="Placeholder for instructor photograph"}
+![](images/rainbowR-square.png){.person-img width="60%" fig-alt="Placeholder for instructor photograph"}
 :::
 ::::
 
@@ -37,3 +43,77 @@ Copy the workshop pattern above for each additional workshop. Use columns when t
 ## Workshop title {#third-workshop-slug}
 
 Add the final workshop details here.
+
+<!--
+PREVIOUS CONFERENCE REFERENCE (2026)
+
+---
+title: "Workshops"
+toc: true
+---
+
+On February 25th, there are four workshops, across two parallel sessions.
+They are running from 4pm-6pm, then 7pm-9pm UTC.
+See the [schedule](schedule.qmd) page for the times in other timezones.
+
+Session A: 4pm–6pm UTC
+
+- [**Introduction to R**](#introduction-to-r)
+- [**If You Can Write a Function, You Can Build an R Package**](#if-you-can-write-a-function-you-can-build-an-r-package)
+
+Session B: 7pm–9pm UTC
+
+- [**Visualising the UK's LGBTQ+ population**](#visualising-the-uks-lgbtq-population)
+- [**LLMs in R for Data Analysis**](#llms-in-r-for-data-analysis)
+
+## Introduction to R
+
+This hands-on workshop offers a supportive introduction to programming in R for participants with little to no prior coding experience. Participants will begin by learning basic programming concepts and becoming comfortable working in the RStudio environment. The workshop then introduces the tidyverse, a collection of R packages commonly used for data science, and guides learners through applying these tools to explore and visualize data. Using the CDC’s Youth Risk Behavior Surveillance data, participants will examine LGBTQ+ health-related questions while practicing core data skills. By the end of the workshop, participants will be able to import, clean, and manipulate data in R to create simple visualizations. No prior programming experience is required; Posit Cloud workspaces will be provided, so attendees do not need to install R or RStudio on their local machines.
+
+[{{< iconify mdi:github >}} GitHub repository](https://github.com/BioDataSage/rainbowR-2026){.btn .icon-link}
+
+**Instructors:**
+
+:::: {.columns}
+
+::: {.column}
+[Allissa Dillman, PhD](speakers.qmd#allissa-dillman)
+
+![](/images/people/allissa-dillman.png){.person-img width="60%"}
+:::
+
+::: {.column}
+[Padmashri Saravanan, MHS, MSc](speakers.qmd#padmashri-saravanan)
+
+![](/images/people/padmashri-saravanan.png){.person-img width="60%"}
+:::
+::::
+
+## If You Can Write a Function, You Can Build an R Package
+
+Think R packages are only for coding pros? This beginner-friendly workshop will change your mind. We’ll gently unpack what an R package actually is, why you might want one (even if you think you don’t), and how packages can make your work easier to reuse, share, and maintain.
+
+Together, we’ll build a simple R package from scratch using the {usethis} package. We’ll explore the basic structure of a package, add our own functions, write clear documentation, and check that everything works as expected. Along the way, we’ll also look at practical ways to share your package with others.
+
+By the end of the session, you’ll have a working R package, a clearer mental model of how packages work, and the confidence to keep building.
+
+To take part in the interactive parts of the workshop, you'll need to install a few packages in advance.
+
+Full details about the workshop, prerequisites, and computer set-up are available on the [workshop website](https://statsrhian.github.io/build-r-pkg/).
+
+[{{< iconify mdi:globe >}} Workshop website](https://statsrhian.github.io/build-r-pkg/){.btn .icon-link}
+
+**Instructor:**
+
+:::: {.columns}
+::: {.column}
+[Rhian Davies](speakers.qmd#rhian-davies)
+
+![](/images/people/rhian-davies.png){.person-img width="60%"}
+:::
+::::
+
+
+
+
+-->
