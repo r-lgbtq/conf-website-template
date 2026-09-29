@@ -1,40 +1,151 @@
 ---
-title: "Code of Conduct"
+title: "Code of Conduct (CoC)"
 toc: true
 ---
 
+*Last modified: 2025-12-15*
+
+Participation in rainbowR activities, including membership, online engagement, and event attendance, indicates your agreement to follow this Code of Conduct and uphold our community standards. By taking part in our spaces, you commit to treating others with respect, contributing to a welcoming environment, and refraining from inappropriate solicitation or harassment.
+
 ## Our Pledge
 
-rainbowR is committed to providing a welcoming, inclusive, and harassment-free experience for everyone. We welcome people of all backgrounds and identities.
+We as members, contributors, and leaders pledge to make participation in rainbowR a harassment-free experience for everyone, regardless of sexual identity and orientation, sex characteristics, gender identity and expression, age, body size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, or religion.
 
-## Expected Behaviour
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-Participants are expected to be respectful, considerate, and collaborative. Help create a space where people can participate fully, learn, and make connections.
+## Our Standards
 
-## Unacceptable Behaviour
+Examples of behavior that contributes to a positive environment for our community include:
 
-Harassment, discrimination, intimidation, or other conduct that could reasonably be considered inappropriate in a professional setting is not acceptable. This includes behaviour directed at people because of gender identity or expression, sexual orientation, disability, race, ethnicity, religion, age, or other protected characteristics.
+-   Demonstrating empathy and kindness toward other people
+
+-   Being respectful of differing opinions, viewpoints, and experiences
+
+-   Giving and gracefully accepting constructive feedback
+
+-   Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+
+-   Focusing on what is best not just for us as individuals, but for the overall community
+
+Examples of unacceptable behavior include:
+
+-   The use of sexualized language or imagery, and sexual attention or advances of any kind
+
+-   Trolling, insulting or derogatory comments, unwelcome profanity or vulgarity, and personal or political attacks
+
+-   Public or private harassment
+
+-   Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion
+
+-   Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
+
+-   Deliberate misgendering or use of 'dead' or rejected names
+
+-   Publishing others' private information, such as a physical or email address, without their explicit permission
+
+-   Publication of non-harassing private communication
+
+-   Threats of violence
+
+-   Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+
+-   Deliberate intimidation
+
+-   Stalking or following
+
+-   Harassing photography or recording, including logging online activity for harassment purposes
+
+-   Deliberate "outing" of any aspect of a person's identity (including membership of rainbowR) without their consent except as necessary to protect vulnerable people from intentional abuse
+
+-   Retaliation, such as punishing, intimidating, or excluding someone for reporting a concern or participating in an investigation
+
+-   Using religious or moral beliefs as a justification or excuse for behaviour that does not comply with this Code of Conduct
+
+-   Other conduct which could reasonably be considered inappropriate in a professional setting
+
+rainbowR prioritizes marginalized people's safety over privileged people's comfort. The CoC committee will not act on complaints regarding:
+
+-   'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' 'reverse homophobia' and 'cisphobia'
+
+-   Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
+
+-   Communicating in a 'tone' you don't find congenial
+
+-   Criticizing racist, sexist, homophobic, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Enforcement Responsibilities
 
-The Code of Conduct team is responsible for clarifying and enforcing these standards and for taking appropriate, fair action in response to behaviour that is inappropriate, threatening, offensive, or harmful.
+The CoC committee is responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+The CoC committee has the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+
+The CoC committee has the right to remove a member of any rainbowR committee from their committee role,
+if they consider it an appropriate consequence for any action they deem in violation of this Code of Conduct by that person.
 
 ## Scope
 
-This Code of Conduct applies throughout conference spaces and to people representing the conference in public spaces.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via a rainbowR social media account, or acting as an appointed representative at an online or offline event.
+
+Behavior that occurs outside rainbowR spaces may be considered when it involves a rainbowR member and creates a risk of harm within the rainbowR community. The Code of Conduct committee will use discretion and will only act on external behavior when it directly impacts the safety or well-being of the community.
 
 ## Reporting
 
-The event-specific reporting contact and any independent escalation route must be added here before registration opens. Until then, refer to the [rainbowR Code of Conduct](https://rainbowr.org/code-of-conduct).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Code of Conduct committee, who are responsible for review and enforcement. This can be done by completing the [rainbowR Code of Conduct Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfOMgx43xj6DuWccAoA5D4Mc1y53EqfpWyOYZkle1z3A-XupQ/viewform?usp=dialog) (this can be anonymous) or by email to [coc@rainbowr.org](mailto::coc@rainbowr.org).
 
-## Timeline, process, and appeal
+Members of the Code of Conduct committee are listed at <https://rainbowr.org/committees#code-of-conduct-committee>.
 
-Document the process for reviewing reports, communicating outcomes, and appealing decisions here before the event.
+If a report involves a member of the CoC committee, or there is any other reason why the person submitting the report does not want a member of this committee to see it, the report can instead be sent to our external, independent advisors, the Fellowship team at the [Software Sustainability Institute (SSI)](https://software.ac.uk). They can be reached, via the primary point of contact, at [oscar.seip@manchester.ac.uk](mailto:oscar.seip@manchester.ac.uk), and they will review and handle the report according to this Code of Conduct. Current members of the SSI Fellowship team are listed on the [Fellowship page](https://www.software.ac.uk/programmes/fellowship-programme) of the SSI website, under "Meet our Team, Fellow, and Explore the Impact of the Programme" -> "Our Team".
+
+All Code of Conduct committee members, and our advisors, are obligated to respect the privacy and security of the reporter of any incident.
+
+## Timeline/process/appeal
+
+1. **Report Submitted:** A concern is sent to the Code of Conduct committee.
+
+2. **Initial Review (within a week of receiving a report):** The committee determines whether the report falls under the Code of Conduct and whether more information is needed.
+
+3. **Information Gathering:** The committee collects any additional details needed to understand the situation.
+
+4. **Decision (within two weeks of information gathering completion):** The committee decides whether a violation occurred and what actions, if any, are appropriate.
+
+5. **Notification (at time of decision):** The committee informs the reporter (when possible) and the person involved of the outcome.
+
+6. **Appeal:** The person found in violation may request an appeal, which will be reviewed by committee members or advisors not involved in the original decision.
+
+7. **Follow-up:** If actions are required, the committee monitors for compliance and addresses any further concerns.
 
 ## Enforcement Guidelines
 
-Add the event’s enforcement guidelines here. The prior conference page used a graduated approach covering correction, warning, temporary ban, and permanent ban.
+Code of Conduct committee members will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from the Code of Conduct committee, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
 
-The conference Code of Conduct should acknowledge the sources or community standards it is adapted from.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html> and the [R-Ladies Code of Conduct](https://rladies.org/code-of-conduct/).
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+For answers to common questions about the Contributor Covenant, see the FAQ at <https://www.contributor-covenant.org/faq>. Translations are available at <https://www.contributor-covenant.org/translations>.
