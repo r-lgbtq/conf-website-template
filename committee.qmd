@@ -7,14 +7,103 @@ toc: true
 
 ### Committee member name (role)
 
-![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
+![](images/rainbowR-square.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
 
 Add a short biography or a description of the member’s conference role.
 
-<!-- [{{< iconify mynaui:globe >}} Website](https://member.example){.btn .icon-link} -->
+<!--
+[{{< iconify mynaui:globe >}} Website](URL){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/USERNAME){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](URL){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/HANDLE){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/HANDLE){.btn .icon-link}
+-->
 
 ### Committee member name (role)
 
-![](images/tba_rainbow-hex.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
+![](images/rainbowR-square.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
+
+<!--
+[{{< iconify mynaui:globe >}} Website](URL){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/USERNAME){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](URL){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/HANDLE){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/HANDLE){.btn .icon-link}
+-->
 
 Copy this pattern for each member. Add names, pronouns where people wish to share them, and links only with permission.
+
+<!--
+PREVIOUS CONFERENCE REFERENCE (2026)
+Copy or adapt this content only after replacing all year-specific details.
+
+---
+title: "Committee"
+toc: true
+---
+
+*Arranged alphabetically by first name*
+
+### Catherine Mercer
+
+[{{< iconify mynaui:globe >}} Website](https://www.stir.ac.uk/people/1667811){.btn .icon-link}
+
+### Damie Pak
+
+![](images/people/damie-pak.png){.person-img width="30%"}
+
+An R user for both work and play! Damie uses R for mathematical modeling but also to make silly things.
+
+[{{< iconify mynaui:globe >}} Website](https://pakdamie.github.io){.btn .icon-link}
+
+### Daniel Sjoberg (advisory)
+
+![](images/people/daniel-sjoberg.jpeg){.person-img width="30%"}
+
+[{{< iconify mynaui:globe >}} Website](https://www.danieldsjoberg.com){.btn .icon-link}
+
+### Ella Kaye (chair)
+
+![](images/people/ella-kaye.jpeg){.person-img width="30%"}
+
+Ella is a Senior Research Software Engineer, working to increase sustainability and EDI (Equality, Diversity and Inclusion) in the R Project. Currently based at the University of Warwick, but moving soon to the University of Birmingham to work on enabling the next generation of contributors to R. She is also a fellow of the Software Sustainability Institute. Ella co-founded and runs rainbowR. She has many and varied hobbies including powerlifting, juggling, and playing clarinet.
+
+[{{< iconify mynaui:globe >}} Website](https://ellakaye.co.uk){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/EllaKaye){.btn .icon-link}
+[{{< iconify mdi:mastodon >}} Mastodon](https://fosstodon.org/@ellakaye){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/ellakaye.co.uk){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/ellakaye){.btn .icon-link}
+
+### James Williamson
+
+![](images/people/james-williamson.jpg){.person-img width="30%"}
+
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/northernmaps.bsky.social){.btn .icon-link}
+
+### Katlyn Bagley-Sepsey
+
+![](images/people/katlyn-bagley-sepsey.png){.person-img width="30%"}
+
+As Director of Institutional Research, Reporting, and Data Stewardship at Furman University, Katlyn focuses on institutional data strategy, governance, and compliance. Responsibilities include aligning data systems with decision-making needs, developing and maintaining data warehousing processes, and ensuring adherence to FERPA standards. She also oversees federal and state reporting, institutional dashboards, and participation in national data exchanges.
+
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/katlyn-bagley-sepsey/){.btn .icon-link}
+
+### Lea Gehmacher
+
+![](images/people/lea-gehmacher.jpg){.person-img width="30%"}
+
+Lea is a Master’s student in Geography: Global Change and Sustainability at the University of Vienna, specializing in socioeconomic transformations. She recently joined Statistics Austria, where she works in the agricultural and forestry register. Her responsibilities include managing and analyzing data, and applying R as part of her workflow.
+
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/lea-gehmacher/){.btn .icon-link}
+
+### Tina Rozsos
+
+![](images/people/tina-rozsos.jpg){.person-img width="30%"}
+
+Tina is an applied microeconomist with an interest in the economics of (higher) education. She is currently a PhD student at the Vrije Universiteit Amsterdam in the Netherlands. She is also a Graduate Fellow at the University College Roosevelt Data Center and the Data Manager of CORE Econ.
+
+[{{< iconify mynaui:globe >}} Website](https://tinarozsos.github.io){.btn .icon-link}
+[{{< iconify simple-icons:github >}} GitHub](https://github.com/tinarozsos){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/tinarozsos.bsky.social){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/tina-rozsos/){.btn .icon-link}
+-->
