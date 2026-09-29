@@ -45,3 +45,69 @@ See [rainbowr.org/buddies](https://rainbowr.org/buddies) for more details on how
 ## Discord
 
 We’ll have a Discord server for the conference, for further chat and socialising, and getting in touch with the organisers. Everyone registered for the conference will be invited to join, probably a couple of days before the conference starts.
+
+<!--
+PREVIOUS CONFERENCE REFERENCE (2026)
+
+---
+title: Socials
+toc: true
+---
+
+Connecting LGBTQ+ R users is a key aim of the conference.
+We're hosting two social events in the schedule.
+We're also running a special conference edition of [buddies](https://rainbowr.org/buddies),
+the flagship rainbowR programme for randomly connecting community members.
+
+See the [schedule](schedule.qmd) for the times in other timezones.
+
+## Quiz and social
+
+**Wednesday February 25th, 18:05-18:55 UTC**
+
+Damie Pak and Libby Heeren are running a quiz and social on the first day of the conference, between the two workshop sessions.
+This will be a chance first to test your R, data science and queer pop-culture knowledge in a fun and quick-fire way (with posit swag for the top scorers),
+before hanging out in facilitated breakout rooms to chat with other community members.
+
+## Birds of a feather
+
+**Thursday February 26th, 18:30-18:30 UTC**
+
+Birds of a feather sessions offer on opportunity to connect with folks with similar interests.
+We'll gather in one Zoom meeting, then be able to split out into separate breakout rooms with different themes.
+Themes are not yet confirmed, but ideas include:
+
+🗺️ Maps/spatial data
+
+💊 R in medicine/pharma
+
+🎉 R for fun
+
+📦 R package development
+
+📈 R in production
+
+⚾️ contributing to base R
+
+🧑‍🏫 R educators
+
+There should be the ability to create rooms on the fly on the day, depending on the interests of those present.
+
+## Buddies
+
+The buddies scheme is a flagship rainbowR programme which randomly pairs members of the community, providing an opportunity to foster connections and encouraging conversations between people who may not meet otherwise.
+
+We're running a special conference edition! Folks who register for the conference will have the opportunity, during the registration process, to request a conference buddy.
+During check-out, you'll be asked a couple of questions about yourself and your interests.
+A couple of days before the conference, we'll randomly assign you a buddy and send an email to each pair, making the introduction, populated with the information you provided in your answers to help get the conversation started.
+
+We encourage you to connect with your buddy in advance of the conference.
+And, during the conference itself, you'll then know (at least) one person attending, who you can be in touch with in the conference Discord and Zoom chats.
+
+See <https://rainbowr.org/buddies> for more details on how the scheme works (and how it's implemented in R!)
+
+## Discord
+
+We'll have a Discord server for the conference, for further chat and socialising, and getting in touch with the organisers.
+Everyone registered for the conference will be invited to join, probably a couple of days before the conference starts.
+-->
