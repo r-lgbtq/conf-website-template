@@ -11,6 +11,13 @@ website:
   image-alt: "rainbowR conference logo"
   favicon: images/rainbow-hex-square.png
   open-graph: true
+  # site-url: ""
+  # announcement:
+  #   icon: calendar-check
+  #   dismissable: true
+  #   content: "**[Registration is now open!]()**"
+  #   type: primary
+  #   position: below-navbar
   navbar:
     logo: images/rainbowR-hex.png
     right:
