@@ -16,20 +16,30 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: schedule.qmd
-        text: Schedule
-      - href: talks.qmd
-        text: Talks
-      - href: speakers.qmd
-        text: Speakers
-      - href: workshops.qmd
-        text: Workshops
+      # - href: abstracts.qmd
+      #   text: Abstracts
+      # - href: registrations.qmd
+      #   text: Registrations
+      # - href: schedule.qmd
+      #   text: Schedule
+      # - href: talks.qmd
+      #   text: Talks
+      # - href: speakers.qmd
+      #   text: Speakers
+      # - href: workshops.qmd
+      #   text: Workshops
       - href: socials.qmd
         text: Socials
-      - href: committee.qmd
-        text: Committee
+      # - href: committee.qmd
+      #   text: Committee
+      # - href: after.qmd
+      #   text: After
       - href: CoC.qmd
         text: Code of Conduct
+      - text: Past events
+        menu:
+          - text: "rainbowR conference 2026"
+            href: https://conference2026.rainbowr.org
   page-footer:
     left: "rainbowR conference"
     right:
