@@ -5,46 +5,76 @@ title: ""
 ![](images/conference-banner.png)
 
 ## Welcome
-
-Welcome to the rainbowR conference. This template is ready for the next event: replace the placeholders on this page when the date, format, and registration details are confirmed.
-
-The conference brings together LGBTQIA+ users of R and their allies to share work, make connections, and celebrate the breadth of our community.
+The inaugural [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQIA+ users of R, and their allies, to promote their work and foster connections amongst the community.
+We have an excellent lineup of LGBTQIA+ [speakers](speakers.qmd) across fifteen [talks](talks.qmd): two keynotes, six regular talks and seven lightning talks.
+The conference showcases the diversity of R users as well as the vast possibilities of what you can do in R.
+In addition to the talks, we are running four virtual [workshops](workshops.qmd) led by experts, as well as virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
 
 ## Who is the conference for?
-
-The conference is for anyone interested in R and/or analysing data to understand LGBTQ+ issues. LGBTQ+ people and allies are welcome.
+The conference is for *anyone* interested in R and/or analysing data to understand LGBTQ+ issues.
+The majority of speakers and workshop leaders are LGBTQ+, but you do *not* have to be LGBTQ+ to attend.
 
 ## About rainbowR
+rainbowR is a community whose mission is to connect, support and promote LGBTQ+ R users,
+and to spread awareness of LGBTQ+ issues through data-driven activism.
 
-[rainbowR](https://rainbowr.org) connects, supports, and promotes LGBTQ+ R users, and spreads awareness of LGBTQ+ issues through data-driven activism.
+Find out more at [rainbowr.org](https://rainbowr.org).
 
-## Important dates
-
-- **Call for proposals opens:** To be confirmed
-- **Proposal deadline:** To be confirmed
-- **Registration opens:** To be confirmed
-- **Conference:** To be confirmed
+## Important dates (upcoming)
+- **February 16, 2026**: Deadline for talk recordings
+- **February 21, 2026**: Registration closes
+- **February 25, 2026**: Workshops
+- **February 26, 2026**: Talks
 
 ## Sponsored and supported by
-
-Add confirmed sponsors and supporters here. The layout below follows the previous conference site; remove any unused columns.
+Generously sponsored by the [Software Sustainability Institute](https://software.ac.uk), [Jumping Rivers](https://www.jumpingrivers.com) and [OLS](https://we-are-ols.org).
 
 ::: {layout="[[55, -5, 40]]" style="margin-bottom: 2em;"}
 
-![](images/sponsors/SSI_PRIMARY_small.png){fig-alt="Sponsor logo placeholder"}
+![](images/sponsors/SSI_PRIMARY_small.png)
 
-![](images/sponsors/JumpingRivers_Primary.png){fig-alt="Sponsor logo placeholder"}
+![](images/sponsors/JumpingRivers_Primary.png)
 
 :::
 
 ::: {layout="[[25, -75]]"}
 
-![](images/sponsors/ols-transparent-bg.png){fig-alt="Sponsor logo placeholder"}
+![](images/sponsors/ols-transparent-bg.png)
 
 :::
 
-Add any acknowledgements, donors, or solidarity-payment supporters below this section when they are confirmed.
+We are also extremely grateful to the following individuals and institutions for donations/solidarity payments to support the rainbowR conference and community:
+
+*Arranged alphabetically by first name*
+
+- Anastasia Voronkova
+- Bastián Olea Herrera
+- Cody Ingle
+- Colin Longstaff
+- Digital Research Academy
+- Erin Becker
+- Esther Plomp, Software Sustainability Institute / University of Aruba
+- James Kilgour
+- James Williamson
+- Kalel Cascardi
+- Kristin Bott
+- Krupamani Kanthaiah
+- LMP Consulting, LLC
+- Lauren Price, Houston Texas USA
+- Libby Heeren
+- Logan King
+- Luke Morris
+- Matt Kerlogue
+- Dr. Matt L. Miller, Oakland University Department of Psychology
+- Max Czapanskiy, UCSB
+- Mickaël Durand, FNRS, UCLouvain
+- Rebecca Killick
+- Ryan Timpe
+- Ted Laderas
+- Tegan Crossman
+- the-tave
+- We All Count
+- *twenty-three supporters who prefer to remain anonymous*
 
 ## Contact
-
-Contact [hello@rainbowr.org](mailto:hello@rainbowr.org) with any questions.
+Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
