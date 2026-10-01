@@ -8,7 +8,7 @@ execute:
   error: false
 ---
 
-The rainbowR conference will run over two days, February 25-26, 2026. The full schedule is shown, with links to talk descriptions.
+The rainbowR conference will run over two days, ***UPDATE DATES***. The full schedule is shown, with links to talk descriptions.
 
 By default, the times are shown in UTC. Use the options below to view the schedule in other timezones (click on the trianges by the timezones to collapse/expand the sections).
 
@@ -45,7 +45,7 @@ schedule_table <- function(date, tz) {
     #opt_stylize(style = 3, color = "pink") |>
     tab_options(
       table.width = pct(100),
-      column_labels.background.color = "#02B3E3",
+      column_labels.background.color = "#02B3E3"
     )
 }
 

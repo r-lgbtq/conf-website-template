@@ -5,7 +5,11 @@ toc: true
 
 *Arranged alphabetically by first name, within each section*
 
-Speaker details will appear here once the programme is confirmed. The examples below are deliberately visible so that this page remains a useful copy-and-edit template.
+Speaker details will appear here once the programme is confirmed. 
+
+::: {.callout-note}
+The examples below are deliberately visible so that this page remains a useful copy-and-edit template.
+:::
 
 ## Keynote speakers
 

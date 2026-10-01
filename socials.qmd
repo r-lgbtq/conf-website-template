@@ -3,7 +3,11 @@ title: "Socials"
 toc: true
 ---
 
-Connecting LGBTQ+ R users is a key aim of the conference. Add confirmed social events below; the recurring Buddies and Discord information remains in place.
+Connecting LGBTQ+ R users is a key aim of the conference. 
+
+::: {.callout-note}
+Add confirmed social events below; the recurring Buddies and Discord information remains in place.
+:::
 
 See the [schedule](schedule.qmd) for time-zone information.
 

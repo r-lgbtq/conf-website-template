@@ -19,19 +19,9 @@ Add a short biography or a description of the member’s conference role.
 [{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/HANDLE){.btn .icon-link}
 -->
 
-### Committee member name (role)
-
-![](images/rainbowR-square.png){.person-img width="30%" fig-alt="Placeholder for committee member photograph"}
-
-<!--
-[{{< iconify mynaui:globe >}} Website](URL){.btn .icon-link}
-[{{< iconify simple-icons:github >}} GitHub](https://github.com/USERNAME){.btn .icon-link}
-[{{< iconify mdi:mastodon >}} Mastodon](URL){.btn .icon-link}
-[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/HANDLE){.btn .icon-link}
-[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/in/HANDLE){.btn .icon-link}
--->
-
+::: {.callout-note}
 Copy this pattern for each member. Add names, pronouns where people wish to share them, and links only with permission.
+:::
 
 <!--
 PREVIOUS CONFERENCE REFERENCE (2026)

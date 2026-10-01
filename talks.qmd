@@ -3,7 +3,9 @@ title: "Talks"
 toc: true
 ---
 
+:::{.callout-note}
 The programme is being assembled. The examples below preserve the display pattern used for previous rainbowR conferences; replace them with confirmed content when ready.
+:::
 
 ## Keynotes
 
