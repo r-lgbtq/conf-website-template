@@ -4,14 +4,14 @@ toc: true
 ---
 
 Connecting LGBTQ+ R users is a key aim of the conference. 
+As in 2026, we'll be running a conference buddies scheme, and have a Discord server. 
+Further social events will be added as plans develop.
 
-::: {.callout-note}
-Add confirmed social events below; the recurring Buddies and Discord information remains in place.
-:::
-
-See the [schedule](schedule.qmd) for time-zone information.
 
 <!--
+See the [schedule](schedule.qmd) for time-zone information.
+
+
 ADD A SOCIAL EVENT ABOVE THE BUDDIES SECTION
 
 Copy this block for each additional conference social. Replace every bracketed item,

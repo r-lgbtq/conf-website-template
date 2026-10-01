@@ -3,7 +3,19 @@ title: "Abstracts"
 format: html
 ---
 
+::: {.callout-note}
 Details of the call for abstracts will be published here when they are available.
+:::
+
+o stay informed, be sure to follow rainbowR on our social channels.
+
+[{{< iconify mdi:mastodon >}} Mastodon](https://tech.lgbt/@rainbowR){.btn .icon-link}
+[{{< iconify simple-icons:bluesky >}} Bluesky](https://bsky.app/profile/rainbowr.org){.btn .icon-link}
+[{{< iconify mdi:linkedin >}} LinkedIn](https://www.linkedin.com/company/rainbowr/){.btn .icon-link}
+
+If you are LGBTQ+ you can also join our community, which gets you an invitation to our Slack group and the opportunity to subscribe to our members newsletter.
+
+[{{< iconify bi:person-plus-fill >}} Join rainbowR](https://docs.google.com/forms/d/e/1FAIpQLSepXotTnoEDaIaflIWXCZNB7dptPqzQsCL6ha2VVHIqgAxXDA/viewform?usp=dialog){.btn .icon-link}
 
 
 <!--

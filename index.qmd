@@ -4,11 +4,18 @@ title: ""
 
 ![](images/conference-banner.png)
 
+::: {.callout-note}
+## rainbowR conference will be back in 2027!
+We're in the very early stages of organising. 
+This website will be updated as plans and details are decided.
+
+If you'd like to help make this happen, please fill in the [conference organising committee nomination form](https://docs.google.com/forms/d/e/1FAIpQLSdIEr_NpZZ0XAOcEOvr2jO-coP66Hx6bUXxz0w44iShD1563w/viewform?usp=dialog).
+:::
+
 ## Welcome
 The [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQ+ users of R, and their allies, to promote their work and foster connections amongst the community.
-We have an excellent lineup of LGBTQ+ [speakers](speakers.qmd) across fifteen [talks](talks.qmd)
 The conference showcases the diversity of R users as well as the vast possibilities of what you can do in R.
-In addition to the talks, we are running virtual [workshops](workshops.qmd) led by experts, as well as virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
+We will have an excellent lineup of LGBTQ+ speakers. In addition to talks, we'll run virtual workshops led by experts, as well as virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
 
 ## Who is the conference for?
 The conference is for *anyone* interested in R and/or analysing data to understand LGBTQ+ issues.
@@ -23,10 +30,15 @@ Find out more at [rainbowr.org](https://rainbowr.org).
 ## Important dates (upcoming)
 - **Call for proposals opens:** To be confirmed
 - **Proposal deadline:** To be confirmed
+- **Responses to abstracts sent:** To be confirmed
 - **Registration opens:** To be confirmed
-- **Conference:** To be confirmed
+- **Conference:** June 8-9th, 2027
 
 ## Sponsored and supported by
+
+Are you interested in sponsoring or supporting rainbowR conference 2027? We'd love to hear from you if so! [hello@rainbowr.org](mailto:hello@rainbowr.org)
+
+<!--
 ::: {.callout-note}
 Add confirmed sponsors and supporters here. The layout below follows the previous conference site; remove any unused columns
 :::
@@ -49,6 +61,10 @@ Generously sponsored by the [Software Sustainability Institute](https://software
 
 Add any acknowledgements, donors, or solidarity-payment supporters below this section when they are confirmed.
 
+
+
 ## Contact
 
 Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
+
+-->
