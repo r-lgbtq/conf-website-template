@@ -1,0 +1,91 @@
+---
+title: "Schedule"
+format: html
+execute:
+  echo: false
+  message: false
+  warning: false
+  error: false
+---
+
+The rainbowR conference will run over two days, ***UPDATE DATES***. The full schedule is shown, with links to talk descriptions.
+
+By default, the times are shown in UTC. Use the options below to view the schedule in other timezones (click on the trianges by the timezones to collapse/expand the sections).
+
+```{r}
+library(dplyr)
+library(lubridate)
+library(gt)
+
+# Schedule data
+schedule <- readr::read_csv("assets/schedule.csv") |>
+  mutate(
+    time_start = dmy_hms(paste(day, time_start), tz = "UTC"),
+    time_end = dmy_hms(paste(day, time_end), tz = "UTC")
+  )
+
+schedule_table <- function(date, tz) {
+  schedule |>
+    filter(day == date) |>
+    mutate(
+      time_start = format(with_tz(time_start, tzone = tz), "%R"),
+      time_end = format(with_tz(time_end, tzone = tz), "%R (%d/%m)"),
+      Time = paste(time_start, time_end, sep = " - "),
+      Event = event,
+      Speaker = speaker
+    ) |>
+    select(Time, Event, Speaker) |>
+    gt() |>
+    tab_footnote(
+      md(paste("All times shown in timezone", tz))
+    ) |>
+    fmt_markdown(c(Event, Speaker)) |>
+    cols_align(everything(), align = "left") |>
+    sub_missing(missing_text = "") |>
+    #opt_stylize(style = 3, color = "pink") |>
+    tab_options(
+      table.width = pct(100),
+      column_labels.background.color = "#02B3E3"
+    )
+}
+
+schedule_tables <- function(tz = "UTC", open = FALSE) {
+  if (open) {
+    cat("<details open>")
+  } else {
+    cat("<details>")
+  }
+  cat(paste0("<summary>", tz, "</summary>"))
+  cat("<h3>Day 1: 25 February</h3><br>")
+  schedule_table("25/02/2026", tz) |>
+    print()
+  cat("<h3>Day 2: 26 February</h3><br>")
+  schedule_table("26/02/2026", tz) |>
+    print()
+  cat("</details>")
+}
+```
+
+::: {.cell}
+```{css}
+summary {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+```
+:::
+
+```{r, results = "asis"}
+schedule_tables("UTC", open = TRUE)
+schedule_tables("America/Los_Angeles")
+schedule_tables("America/New_York")
+schedule_tables("Europe/London")
+schedule_tables("Europe/Berlin")
+schedule_tables("Asia/Dubai")
+schedule_tables("Asia/Kolkata")
+schedule_tables("Asia/Singapore")
+schedule_tables("Asia/Shanghai")
+schedule_tables("Asia/Tokyo")
+schedule_tables("Australia/Sydney")
+```
+

@@ -1,0 +1,86 @@
+---
+title: "Abstracts"
+format: html
+---
+
+Details of the call for abstracts will be published here when they are available.
+
+
+<!--
+CALL FOR ABSTRACTS TEMPLATE
+
+::: {.callout-tip}
+## Abstract submissions are open
+
+Submit your proposal by [submission deadline and time zone] using the
+[submission form](URL). We will notify applicants by [notification date].
+:::
+
+Describe the conference themes and the kinds of R-related work the programme
+will showcase. State clearly who is welcome to submit and, where applicable,
+any expectations for speakers.
+
+## Presentation formats
+
+- **Regular talks ([duration]):** [Format, Q&A, and recording guidance.]
+- **Lightning talks ([duration]):** [Format and recording guidance.]
+- **Other formats:** [Panels, posters, workshops, or other options, if offered.]
+
+## Submitting an abstract
+
+State the abstract word limit, what information to provide, the review process,
+and any accessibility or support available to speakers.
+
+## Key dates
+
+- **Submissions open:** [date]
+- **Submissions close:** [date and time zone]
+- **Decisions sent:** [date]
+- **Recording deadline, if relevant:** [date]
+-->
+
+<!--
+PREVIOUS CONFERENCE REFERENCE (2026)
+Copy or adapt this content only after replacing all year-specific details.
+
+---
+title: "Abstracts"
+format: html
+---
+::: {.callout-tip}
+## Submissions are now closed!
+Proposals to speak were open until December 8th, 2025, midnight, [anywhere on earth](https://dateful.com/convert/aoe-anywhere-on-earth).
+Acceptance notifications will be sent out by January 9, 2026.
+:::
+
+We are accepting proposals for talks across two strands:
+
+  - Showcasing the many ways that our diverse community uses R
+  - Working with LGBTQ+ data
+
+Share with the audience how you use R in your professional career across all disciplines, or for personal projects.
+**We're open to talks on any R-related topic, including R packages and web-apps, analytics and modeling, emerging trends in R, and ways to foster community and collaboration**.
+Additionally, we would love to hear from the data practitioners who use R to raise awareness of LGBTQ+ issues!
+
+::: {.callout-note}
+Attendance at the conference is open to LGBTQ+ folks and allies. We expect speakers to be LGBTQ+.
+:::
+
+The types of abstracts we are accepting includes:
+
+- **Regular talks (20 minutes)**: Speakers are encouraged to keep their presentations 15–17 minutes to allow for a Q&A. Preferably pre-recorded.
+- **Lightning talks (5 minutes)**: A brief talk, which must be pre-recorded.
+
+Abstracts should (up to) 150 words.
+
+## Pre-recording
+For the smooth-running of the conference, we require that all lightning talks are pre-recorded.
+We would prefer for regular talks to be pre-recorded, though we will not require this.
+
+## Key dates
+- **November 6th, 2025 :** Abstract submission is open
+- **December 8th, 2025:** Abstract submission is closed (extended from December 1st)
+- **January 9, 2026**: Abstract acceptance sent out
+- **February 16, 2026**: Deadline for talk recordings
+
+-->

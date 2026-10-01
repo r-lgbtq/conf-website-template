@@ -1,0 +1,26 @@
+---
+title: "Registrations"
+format: html
+---
+
+Registration details will be published here when they are available.
+
+
+<!--
+TEMPLATE
+---
+title: "Register"
+format: html
+---
+
+::: {.callout-tip}
+## Registration will open soon!
+:::
+
+[Sign-up to be notified when registration opens!](https://docs.google.com/forms/d/e/1FAIpQLSe4sYjwykRg8t7mEYU_RBRvq6lXPO6hNjnUqHuA9KkhNwLHVw/viewform?usp=dialog){.btn .btn-primary}
+
+For now, save the date! **February 25th-26th, 2026, from 4pm-9pm UTC each day**.
+
+rainbowR 2026 is a free virtual event. There is no cost for registration.
+
+-->
