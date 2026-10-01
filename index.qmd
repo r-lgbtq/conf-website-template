@@ -5,10 +5,10 @@ title: ""
 ![](images/conference-banner.png)
 
 ## Welcome
-The inaugural [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQIA+ users of R, and their allies, to promote their work and foster connections amongst the community.
-We have an excellent lineup of LGBTQIA+ [speakers](speakers.qmd) across fifteen [talks](talks.qmd): two keynotes, six regular talks and seven lightning talks.
+The [rainbowR](https://rainbowr.org) virtual conference will bring together LGBTQ+ users of R, and their allies, to promote their work and foster connections amongst the community.
+We have an excellent lineup of LGBTQ+ [speakers](speakers.qmd) across fifteen [talks](talks.qmd)
 The conference showcases the diversity of R users as well as the vast possibilities of what you can do in R.
-In addition to the talks, we are running four virtual [workshops](workshops.qmd) led by experts, as well as virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
+In addition to the talks, we are running virtual [workshops](workshops.qmd) led by experts, as well as virtual [socials](socials.qmd) where conference participants can meet other R users to connect, share experiences, and unwind.
 
 ## Who is the conference for?
 The conference is for *anyone* interested in R and/or analysing data to understand LGBTQ+ issues.
@@ -21,12 +21,16 @@ and to spread awareness of LGBTQ+ issues through data-driven activism.
 Find out more at [rainbowr.org](https://rainbowr.org).
 
 ## Important dates (upcoming)
-- **February 16, 2026**: Deadline for talk recordings
-- **February 21, 2026**: Registration closes
-- **February 25, 2026**: Workshops
-- **February 26, 2026**: Talks
+- **Call for proposals opens:** To be confirmed
+- **Proposal deadline:** To be confirmed
+- **Registration opens:** To be confirmed
+- **Conference:** To be confirmed
 
 ## Sponsored and supported by
+::: {.callout-note}
+Add confirmed sponsors and supporters here. The layout below follows the previous conference site; remove any unused columns
+:::
+
 Generously sponsored by the [Software Sustainability Institute](https://software.ac.uk), [Jumping Rivers](https://www.jumpingrivers.com) and [OLS](https://we-are-ols.org).
 
 ::: {layout="[[55, -5, 40]]" style="margin-bottom: 2em;"}
@@ -43,38 +47,8 @@ Generously sponsored by the [Software Sustainability Institute](https://software
 
 :::
 
-We are also extremely grateful to the following individuals and institutions for donations/solidarity payments to support the rainbowR conference and community:
-
-*Arranged alphabetically by first name*
-
-- Anastasia Voronkova
-- Bastián Olea Herrera
-- Cody Ingle
-- Colin Longstaff
-- Digital Research Academy
-- Erin Becker
-- Esther Plomp, Software Sustainability Institute / University of Aruba
-- James Kilgour
-- James Williamson
-- Kalel Cascardi
-- Kristin Bott
-- Krupamani Kanthaiah
-- LMP Consulting, LLC
-- Lauren Price, Houston Texas USA
-- Libby Heeren
-- Logan King
-- Luke Morris
-- Matt Kerlogue
-- Dr. Matt L. Miller, Oakland University Department of Psychology
-- Max Czapanskiy, UCSB
-- Mickaël Durand, FNRS, UCLouvain
-- Rebecca Killick
-- Ryan Timpe
-- Ted Laderas
-- Tegan Crossman
-- the-tave
-- We All Count
-- *twenty-three supporters who prefer to remain anonymous*
+Add any acknowledgements, donors, or solidarity-payment supporters below this section when they are confirmed.
 
 ## Contact
+
 Please contact [hello@rainbowr.org](mailto:hello@rainbowr.org). We'd love to hear from you!
