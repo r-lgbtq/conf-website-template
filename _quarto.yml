@@ -23,10 +23,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      # - href: abstracts.qmd
-      #   text: Abstracts
-      # - href: registrations.qmd
-      #   text: Registrations
+      - href: abstracts.qmd
+        text: Abstracts
+      - href: registrations.qmd
+        text: Registrations
       # - href: schedule.qmd
       #   text: Schedule
       # - href: talks.qmd
