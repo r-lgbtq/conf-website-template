@@ -1,0 +1,4 @@
+kind,session,session_slug,title,speaker,speaker_slug,slug,abstract,image,image_alt,callout,recording,slides,repository
+keynote,,,Talk title,Speaker name,speaker-name,talk-slug,Add the keynote abstract here.,images/placeholder_opener_rainbow_rect.png,RainbowR placeholder graphic,,,,
+regular,Session I,session-1,Another talk title,Speaker name,another-speaker,another-talk-slug,"Add the talk abstract here. Once the event has taken place add any recording slides repository preprint or other resources as appropriate.",,,note,,,
+lightning,,,Lightning talk title,Speaker name,speaker-name,lightning-talk-slug,Add a short abstract if available then add event resources when they are ready.,,,tip,,,
