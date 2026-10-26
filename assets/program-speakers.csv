@@ -1,0 +1,3 @@
+kind,name,pronouns,bio,talk_title,talk_slug,slug,image,image_alt,website,github,mastodon,bluesky,linkedin
+keynote,Speaker name,pronouns,"is a role at Organisation. Add a short biography that explains their work, interests, and connection to the conference.",Talk title,talk-slug,speaker-name,images/rainbowR-square.png,Placeholder for speaker photograph,,,,,
+talk,Speaker name,,"Add a short biography here. The content is read from this table, so new form responses do not require copying content into speakers.qmd.",Another talk title,another-talk-slug,another-speaker,images/rainbowR-square.png,Placeholder for speaker photograph,,,,,
